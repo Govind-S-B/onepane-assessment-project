@@ -1,0 +1,22 @@
+Hardware,Model,Cost (USD),Number of Buyers,Region,Brand
+CPU,Intel Core i7,300,150,Europe,Intel
+GPU,NVIDIA RTX 3080,700,200,North America,NVIDIA
+RAM,Corsair Vengeance 16GB,80,300,South America,Corsair
+SSD,Samsung 970 EVO 1TB,150,250,Australia,Samsung
+Motherboard,ASUS ROG Strix Z590-E,250,180,Europe,ASUS
+Power Supply,Corsair RM750x,120,220,South America,Corsair
+Cooling System,Noctua NH-D15,90,160,Europe,Noctua
+CPU,AMD Ryzen 7 3700X,280,120,Middle East,AMD
+GPU,AMD Radeon RX 6800 XT,650,180,Africa,AMD
+RAM,G.Skill Trident Z Neo 16GB,85,250,Europe,G.Skill
+SSD,Crucial P1 1TB,110,200,Middle East,Crucial
+Motherboard,Gigabyte Z590 AORUS Elite,200,160,North America,Gigabyte
+Power Supply,EVGA SuperNOVA 750 G5,100,150,Australia,EVGA
+Cooling System,Cooler Master Hyper 212,50,130,Europe,Cooler Master
+CPU,AMD Ryzen 7 3700X,280,120,Asia,AMD
+GPU,AMD Radeon RX 6800 XT,650,180,Asia,AMD
+RAM,G.Skill Trident Z Neo 16GB,85,250,South America,G.Skill
+SSD,Crucial P1 1TB,110,200,Africa,Crucial
+Motherboard,Gigabyte Z590 AORUS Elite,200,160,Australia,Gigabyte
+Power Supply,EVGA SuperNOVA 750 G5,100,150,Asia,EVGA
+Cooling System,Cooler Master Hyper 212,50,130,Australia,Cooler Master 

@@ -1,0 +1,26 @@
+For the following user questiong we have done an SQL query and this was our output, convert this into a short simple user understandable message read by a unsophisticated user"""
+    f"Question : {question} \n"
+    f"SQL Query Column Headers : {sql_response[0]} \n"
+    f"SQL Query Output : {sql_response[1]} \n"
+    """
+    For additional context this was the database schema :
+     CREATE TABLE IF NOT EXISTS hardware (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        type TEXT NOT NULL CHECK(type IN ('CPU', 'GPU', 'RAM', 'SSD', 'Motherboard', 'Power Supply', 'Cooling System')),  -- Constrained hardware types
+        model TEXT NOT NULL,
+        cost INTEGER NOT NULL,
+        num_buyers INTEGER NOT NULL,
+        region TEXT NOT NULL CHECK(region IN ('Africa', 'Asia', 'Australia', 'Europe', 'Middle East', 'North America', 'South America')),
+        brand TEXT NOT NULL ) """
+    f"This was the query that was executed : {query}"
+    """
+    The response should be in the following json format
+
+    {
+    "reasoning" : how the output from query makes sense for the question and thinking in step by step
+    "msg" : user understandable answer for their question from the query output . The answer must be short and concise
+    }
+
+    <|im_end|>
+    <|im_start|>assistant
+    """

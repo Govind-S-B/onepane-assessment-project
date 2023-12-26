@@ -1,0 +1,18 @@
+What brand of GPU has the highest sales in Europe?
+There are currently no records in the database for a GPU sold in Europe.
+===========================================================
+Calculate the average cost of SSDs in the Asia region.
+There are currently no records in the database for SSDs in the Asia region.
+===========================================================
+Identify the total number of RAM units sold in North America and the corresponding brand.
+There are currently no records in the database for RAM sales in North America.
+===========================================================
+Determine the least expensive cooling system model and its most popular region.
+The least expensive cooling system model is 'Cooler Master Hyper 212' which costs $50 in both Europe and Australia. The most popular region for this model is not specified as there are multiple regions with the same number of buyers.
+===========================================================
+List the hardware types and brands that have a buyer count exceeding 200 in Africa.
+There are currently no records in the database for hardware types and brands with more than 200 buyers in Africa.
+===========================================================
+Rank the top three most sold hardware types in South America and their manufacturers.
+The top three most sold hardware types in South America are RAM and Power Supply, both manufactured by Corsair.
+===========================================================
