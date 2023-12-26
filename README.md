@@ -2,7 +2,7 @@
 To use a local LLM to read user query and make SQL queries and then answer the user questions.
 Given a test data and sample questions to work with.
 
-You can find the approach document in [here](linktoreadme)
+You can find the approach document in [here](https://github.com/Govind-S-B/onepane-assessment-project/blob/main/approach_doc.md)
 
 # How to run
 
@@ -16,8 +16,8 @@ ollama pull dolphin-mixtral:8x7b-v2.6-q3_K_M
 ```
 2. Clone the repo and move into the directory
 ```
-git clone 
-cd
+git clone https://github.com/Govind-S-B/onepane-assessment-project.git
+cd onepane-assessment-project
 ```
 3. Run the script
 ```
